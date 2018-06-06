@@ -1,5 +1,8 @@
+
 Text Classification
 -------------------------------------------------------------------------
+# 各种文本分类模型，更多的是有深度的学习模型及源码
+
 the purpose of this repository is to explore text classification methods in NLP with deep learning.
 
 UPDATE: 
